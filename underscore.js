@@ -7,9 +7,10 @@
 // http://documentcloud.github.com/underscore/
 window._ = {
   
+  // 버전
   VERSION : '0.1.0',
   
-  /*------------------------ Collection Functions: ---------------------------*/
+  /*------------------------ collection객체 순회처리 함수 ---------------------------*/
     
   // The cornerstone, an each implementation.
   // Handles objects implementing forEach, each, arrays, and raw objects.
